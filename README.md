@@ -1,11 +1,10 @@
 # decentralized-donation
 This is a decentralized donation web app. It uses the sepolia testnet. Please get sepolia testnet tokens to test the contract from [sepolia faucet](https://sepoliafaucet.com/)_
 Its features are-
-
-  -Creating a funding contract
-  -Funding and withdrawing from the contract through the frontend
   - Login/Signup through OTP delivered to the phone number for the admins
   - JWT tokens
+  - Creating a funding contract
+  - Funding and withdrawing from the contract through the frontend
     
 # How to run the app-
 ## Step 0 - Add a .env file in the server directory with the following format. In the mongo uri create a cluster with mongo and add that here-
