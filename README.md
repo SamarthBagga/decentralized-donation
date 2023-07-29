@@ -1,5 +1,5 @@
 # decentralized-donation
-This is a decentralized donation web app.
+This is a decentralized donation web app. It uses the sepolia testnet. Please get sepolia testnet tokens to test the contract from [sepolia faucet](https://sepoliafaucet.com/)_
 Its features are-
 
   -Creating a funding contract
@@ -48,7 +48,7 @@ cd contract && yarn install
 
 ## Step 2 - Deploying the contract 
 ```
-yarn hardhat deploy 
+yarn hardhat deploy --network sepolia
 ```
 
 ## Step 3 - Add the contract address-
