@@ -37,7 +37,7 @@ npm run dev
 ```
 SEPOLIA_RPC_URL = https://eth-sepolia.g.alchemy.com/v2/kLlSgWn31V_kgHEFZy13x_WMWMOBoE1n
 PRIVATE_KEY = 
-ETHERSCAN_API_KEY = 9PKFJCQ1WXGV9QWZTZGUA71W9A547INEYW
+ETHERSCAN_API_KEY = 
 COINMARKETCAP_API_KEY = 
 ```
 ## Step 1 - Install the dependencies (node version > 16)
